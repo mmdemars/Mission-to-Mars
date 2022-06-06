@@ -5,6 +5,8 @@ __pycache__/
 
 # added files
 Practice.ipynb
+workbook.ipynb
+clas_craigslist.ipynb
 
 # C extensions
 *.so
